@@ -1,4 +1,4 @@
-# Lab 2 - *TumblrClone*
+# Project - *TumblrClone*
 
 **TumblrClone** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
